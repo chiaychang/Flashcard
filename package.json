@@ -1,0 +1,22 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "homework 9",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaychang/Flashcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiaychang/Flashcard/issues"
+  },
+  "homepage": "https://github.com/chiaychang/Flashcard#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
