@@ -22,5 +22,4 @@ ClozeCard.prototype.partial = function() {
     console.log(partialText);
 }
 
-
 module.exports = ClozeCard;
